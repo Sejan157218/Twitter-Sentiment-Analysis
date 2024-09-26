@@ -40,5 +40,5 @@ Challenge: Balancing the dataset and dealing with class imbalance (more neutral 
 
 Solution: Applied oversampling techniques like SMOTE and class weighting to balance positive, negative, and neutral classes.
 
-Results:
+# Results:
 Performance: Achieved 81% accuracy with traing data and  0.77 in test data.
